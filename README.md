@@ -15,23 +15,23 @@ Here is 4 steps of design thinking
 
 ### Step 1: Empathize
 
-<img width="1277" height="451" alt="image" src="https://github.com/user-attachments/assets/dcf1a5f7-56b2-40ac-a725-cb53f764f975" />
+<img width="1762" height="893" alt="image" src="https://github.com/user-attachments/assets/95eee564-a815-432b-894a-b664ef1e10fb" />
 
-<img width="782" height="502" alt="image" src="https://github.com/user-attachments/assets/bfb35169-b355-440e-b111-377a32b7a965" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/cef137f4-261e-48a3-892a-9d8098b35ba5" />
 
-<img width="337" height="477" alt="image" src="https://github.com/user-attachments/assets/9ac568e5-4f40-4017-9c39-e9aac62c5ba4" />
+<img width="1086" height="1448" alt="image" src="https://github.com/user-attachments/assets/69404f47-e14e-4f08-9f7f-2252e4d4c8ed" />
 
 ### Step 2: Define
 
-<img width="583" height="535" alt="image" src="https://github.com/user-attachments/assets/93a1900d-ff16-4e63-b9bb-cb50e55f37b7" />
+<img width="1535" height="1024" alt="image" src="https://github.com/user-attachments/assets/370f945f-3930-4615-be6e-222c28a9cc5a" />
 
-<img width="573" height="503" alt="image" src="https://github.com/user-attachments/assets/490407c3-ded8-46a7-9e85-c31f8ffb7e6f" />
+<img width="1470" height="1070" alt="image" src="https://github.com/user-attachments/assets/a12a2fa6-30e3-47e0-a43e-b52e44fb59e7" />
 
-<img width="787" height="506" alt="image" src="https://github.com/user-attachments/assets/599bdd07-e466-412d-8dbd-7ea0f16b42f0" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/585b40ca-85e1-446b-8582-002f06f8d534" />
 
 ### Step 3: Ideate
 
-<img width="703" height="596" alt="image" src="https://github.com/user-attachments/assets/ede95825-ed13-4f5c-9603-25d492bb46ab" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a0951882-f149-4ea5-a4e7-0d9c558479a1" />
 
 <img width="1055" height="557" alt="image" src="https://github.com/user-attachments/assets/4d678d9c-b4d6-4d8a-964f-ca3760e15245" />
 
