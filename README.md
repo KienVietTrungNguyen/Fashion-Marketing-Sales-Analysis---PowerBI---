@@ -33,7 +33,7 @@ Here is 4 steps of design thinking
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a0951882-f149-4ea5-a4e7-0d9c558479a1" />
 
-<img width="1440" height="1116" alt="image" src="https://github.com/user-attachments/assets/51906424-309b-4f39-a401-7d322d10fe1e" />
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/c155f7ce-f74b-426b-9558-6bf8ba8bd7c7" />
 
 
 ### Step 4: Prototype and Review
