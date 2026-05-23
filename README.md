@@ -29,19 +29,6 @@ Here is 4 steps of design thinking
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/585b40ca-85e1-446b-8582-002f06f8d534" />
 
-### Step 3: Ideate
-
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a0951882-f149-4ea5-a4e7-0d9c558479a1" />
-
-<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/c155f7ce-f74b-426b-9558-6bf8ba8bd7c7" />
-
-
-### Step 4: Prototype and Review
-
-- Choose the type of chart suitable for the questions
-- Presentation, layout of each part of the report(size, chart arrangement...)
-- Choose the color of the report
-- Self-review and edit my report
 
 ## III. Visualization
 
@@ -49,66 +36,105 @@ Here is 4 steps of design thinking
 
 <img width="1255" height="713" alt="image" src="https://github.com/user-attachments/assets/a99352b8-02ce-4b42-997a-989d122e1b96" />
 
+### 📌 Insights
+
+- Total Revenue reached **4.77bn₫**, while Ads Revenue contributed **3.02bn₫**, showing that advertising campaigns are the primary revenue driver.
+
+- ROAS achieved **7.67**, indicating that every 1₫ spent on advertising generated approximately 7.67₫ in revenue.
+
+- Revenue and transaction growth increased compared to the previous period, reflecting stable business growth.
+
+- Budget utilization fluctuated across different periods, with several days exceeding planned budget allocation, indicating inconsistent spending control.
+
+- Ads Revenue contributes a significantly larger portion of revenue than Direct Revenue, showing heavy dependence on paid marketing channels.
+  
 ### Market Performance
 
 <img width="1272" height="713" alt="image" src="https://github.com/user-attachments/assets/7774c578-4956-407d-92f1-5856c36adb5f" />
+
+### 📌 Insights
+
+- The funnel shows a significant drop from **5.11M impressions** to **41.65K clicks** and **11.44K conversions**, indicating conversion inefficiencies.
+
+- CTR remains relatively low at **0.8%**, suggesting that creatives or audience targeting are not fully optimized.
+
+- CPC and Cost per Comment/Inbox fluctuate significantly, reflecting inconsistent customer acquisition efficiency.
+
+- Higher marketing spend generally increases orders, but not proportionally, indicating diminishing returns in some campaigns.
+
+- CPM increases alongside impressions, suggesting higher advertising competition during scaling periods.
 
 ### Campaign Performance
 
 <img width="1268" height="718" alt="image" src="https://github.com/user-attachments/assets/11203435-2908-4ca4-a016-0ee720eadcda" />
 
+### 📌 Insights
+
+- Campaign performance varies significantly, with some campaigns generating extremely high ROAS while others underperform.
+
+- Several campaigns consume large budgets but produce relatively low returns, indicating inefficient budget allocation.
+
+- Campaigns with stronger customer engagement (comments/inbox interactions) tend to generate more orders.
+
+- Some campaigns achieve scale but sacrifice profitability and efficiency.
+
+- High CTR campaigns do not always produce high conversion rates, suggesting traffic quality issues.
+
 ### SKU Performance
 
 <img width="1258" height="716" alt="image" src="https://github.com/user-attachments/assets/13f7d6a8-4837-4b43-8aa3-810682ee1815" />
 
+## 📌 Insights
 
-## IV. Insight 
+- Categories such as **Váy Chiết Eo Xòe**, **Áo Tách Set**, and **Set Váy Áo** contribute the highest revenue and campaign performance.
 
-1. Overall Performance
+- Some product categories generate high order volume but maintain high Cost per Order, reducing profitability.
 
-Total revenue reached 4.77B VND, with Ads Revenue contributing ~63%, showing marketing is the main sales driver.
+- Categories with many campaigns do not always achieve high conversion rates, indicating campaign saturation.
 
-ROAS = 7.67, indicating strong marketing efficiency.
+- Several SKUs achieve strong ROI despite lower campaign volume, representing high-potential products for scaling.
 
-Only ~82% of the budget was spent, leaving room to scale high-performing campaigns.
+- Conversion rates differ significantly across product categories, reflecting different customer preferences.
+  
 
-2. Marketing Funnel
+## IV. Recommend
+- Reallocate marketing budget toward high-ROAS campaigns and profitable SKUs to maximize revenue efficiency.
 
-5.11M impressions → 41.6K clicks → 11.4K orders.
+- Reduce spending on low-performing campaigns with high CPA and weak conversion performance.
 
-CTR is relatively low (0.8%), while conversion from click to order is strong.
-→ The main bottleneck is top-funnel engagement (ads creative & targeting).
+- Improve ad creatives, targeting strategies, and campaign messaging to increase CTR and conversion rates.
 
-3. Campaign Performance
+- Conduct regular A/B testing to optimize audience targeting, creatives, and campaign objectives.
 
-Large variation in ROAS across campaigns.
+- Focus on high-performing product categories such as:
+  - Váy Chiết Eo Xòe
+  - Áo Tách Set
+  - Set Váy Áo
 
-Some high-ROAS campaigns receive limited budget, while others spend more but perform poorly.
-→ Budget allocation is not fully optimized.
+- Reduce dependence on paid advertising by strengthening direct sales channels, customer retention programs, and repeat purchase strategies.
 
-4. Product Category Performance
+- Improve traffic quality instead of only increasing impressions and clicks to achieve more efficient customer acquisition.
 
-Categories like Dresses and Sets generate stronger performance (higher ROAS and conversions).
+- Monitor budget utilization closely to prevent overspending during low-efficiency periods.
 
-## V. Recommend
-1. Reallocate Marketing Budget
+- Use SKU-level performance analysis to optimize inventory planning and marketing investment decisions.
 
-Increase spending on high-ROAS campaigns and reduce budget for underperforming ones to maximize overall efficiency.
+- Prioritize campaigns that generate both strong customer engagement and high conversion performance.
 
-2. Improve Top-Funnel Performance
+- Optimize campaign timing based on periods with historically high revenue and conversion rates.
 
-Test new creatives, formats, and audience targeting to increase CTR (target 1.2–1.5%).
+- Build real-time campaign monitoring dashboards to quickly identify underperforming campaigns and adjust marketing strategies faster.
 
-3. Scale High-Performing Categories
+- Improve operational efficiency by aligning marketing activities with product demand and inventory availability.
 
-Focus advertising investment on best-performing product categories to drive higher revenue and ROAS.
+- Develop data-driven marketing strategies using KPIs such as:
+  - ROAS
+  - CPA
+  - CTR
+  - CPM
+  - Conversion Rate
+  - Cost per Order
 
-4. Optimize Low-Performing Products
-
-Improve product content, landing pages, or reduce ad spending for products with high cost per order.
-
-5. Improve Budget Pacing
-
-Manage spending more evenly across time to avoid under-spending or overspending, ensuring stable campaign performance.
+- Strengthen long-term profitability by balancing revenue growth with marketing efficiency and customer retention.
 
 
